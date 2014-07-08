@@ -1,0 +1,34 @@
+{
+  "name": "fontawesome-icon",
+  "authors": [
+    "Andrés Sánchez"
+  ],
+  "description": "A Polymer element to use FontAwesome icons",
+  "keywords": [
+    "Polymer",
+    "web-components",
+    "fontawesome"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/andressanchez/fontawesome-icon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.3.3"
+  },
+  "_release": "251f3a94bd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "251f3a94bdca7587d72ff2d905f21105b44e13f7"
+  },
+  "_source": "git://github.com/andressanchez/fontawesome-icon.git",
+  "_target": "master",
+  "_originalSource": "andressanchez/fontawesome-icon",
+  "_direct": true
+}

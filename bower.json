@@ -1,0 +1,7 @@
+{
+  "name": "fontawesome-icon#gh-pages",
+  "private": true,
+  "dependencies": {
+    "fontawesome-icon": "andressanchez/fontawesome-icon#master"
+  }
+}
